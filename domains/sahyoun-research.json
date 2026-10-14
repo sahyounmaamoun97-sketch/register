@@ -1,0 +1,12 @@
+{
+  "owner": {
+    "username": "sahyounmaamoun97-sketch",
+    "email": "sahyounmaamoun97@gmail.com"
+  },
+  "description": "Research profile for independent researcher from Tripoli",
+  "domain": "sahyoun-research",
+  "records": {
+    "MX": ["route1.mx.cloudflare.net", "route2.mx.cloudflare.net", "route3.mx.cloudflare.net"],
+    "TXT": ["v=spf1 include:_spf.mx.cloudflare.net ~all"]
+  }
+}
